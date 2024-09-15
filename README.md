@@ -1,8 +1,5 @@
-<div align="center">
-  
-# ✧ Projeto Starbucks ✧
-<br> <br>
 
+<<<<<<< HEAD
 ## ✧ Esse foi um projeto que desenvolvi durante as lives da missão "Progamação do Zero" junto com <a href="https://github.com/rodolfomori" target="_blank">Rofolfo Mori</a>.🚀 ✧
 
 ### ✧ Além de realizar o projeto conforme ensinado, para me diversificar, apliquei a responsividade para mobile na página e tornei o botão funcional , que ao clicar, leva ao meu LinkedIn. ✧
@@ -16,3 +13,5 @@
 <img  alt="imagem do projeto no desktop" src="https://github.com/andressa1010">
 <img alt="imagem do projeto no mobile" src="https://github.com/andressa1010">
 </div>
+=======
+>>>>>>> 162382b8ab190b0f4fab509108755c6ce8cf4904
