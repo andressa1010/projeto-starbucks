@@ -6,12 +6,8 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
-### <p>👾Teste <a href="https://github.com/andressa1010">Aqui</a>👾</p>
-  </div>
 
-<div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/andressa1010">
-<img alt="imagem do projeto no mobile" src="https://github.com/andressa1010">
-</div>
+
+
 =======
 >>>>>>> 162382b8ab190b0f4fab509108755c6ce8cf4904
